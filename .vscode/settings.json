@@ -1,0 +1,10 @@
+﻿{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "jupyter.jupyterServerType": "local",
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "files.watcherExclude": {
+    "**/.venv/**": true,
+    "**/.ipynb_checkpoints/**": true
+  }
+}
